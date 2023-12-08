@@ -1,6 +1,6 @@
 # awesome-linux-light for embedded linux or raspberry pi
 awesome-linux-light
-- apline
+- alpine
 - tinycore, dcore
 - Puppy Linux
 - slax
