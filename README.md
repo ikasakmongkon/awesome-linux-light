@@ -7,6 +7,8 @@ awesome-linux-light
 - slitaz
 - antix
 - openwrt
+- void
+- netbsd
 
 
 https://en.wikipedia.org/wiki/Light-weight_Linux_distribution
